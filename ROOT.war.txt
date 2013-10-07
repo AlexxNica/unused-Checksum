@@ -1,1 +1,1 @@
-577b8cc8bd1b55086c93e30f4ae2654441d81be4  ../apache-tomcat/blockchain.info/ROOT.war
+bf0fe53b8f4605c51a0476610cd6945bd3891d1a  ../apache-tomcat/blockchain.info/ROOT.war
